@@ -3,8 +3,9 @@ name: fitness_tracker_app
 dependencies:
   flutter:
     sdk: flutter
-  pedometer: ^4.0.1
+  pedometer: ^4.1.1
   permission_handler: ^11.3.1
+  vector_math: ^2.1.4
 
 environment:
   sdk: '^3.3.0'
