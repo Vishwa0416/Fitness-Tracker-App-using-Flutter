@@ -1,0 +1,10 @@
+name: fitness_tracker_app
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pedometer: ^4.0.1
+  permission_handler: ^11.3.1
+
+environment:
+  sdk: '^3.3.0'
