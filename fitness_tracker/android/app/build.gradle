@@ -24,12 +24,12 @@ if (flutterVersionName == null) {
 
 android {
     namespace "com.example.fitness_tracker"
-    compileSdkVersion 34
+    compileSdkVersion 35
 
     defaultConfig {
         applicationId "com.example.fitness_tracker"
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 35
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
