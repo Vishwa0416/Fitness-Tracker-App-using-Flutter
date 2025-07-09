@@ -1,6 +1,6 @@
 # 🏃‍♂️ Fitness Tracker App
 
-A Flutter-based fitness tracking app that uses your phone's built-in sensors to monitor steps, estimate distance walked, and support healthy living — without using GPS. 📱💪
+A Flutter-based fitness tracking app that uses your phone's built-in sensors to monitor steps, estimate distance walked, and support healthy living, without using GPS. 📱💪
 
 ---
 
