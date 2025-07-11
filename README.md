@@ -10,7 +10,7 @@ A Flutter-based fitness tracking app that uses your phone's built-in sensors to 
 - 📏 **Distance Estimation** based on stride length
 - 🔒 **Permission Handling** for activity recognition
 - 🌗 Clean Material UI with Flutter
-- ⚙️ Uses phone **hardware sensors**, not GPS — power-efficient!
+- ⚙️ Uses phone **hardware sensors**, not GPS, power-efficient!
 
 ---
 
