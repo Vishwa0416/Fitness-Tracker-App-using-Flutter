@@ -12,11 +12,6 @@ A Flutter-based fitness tracking app that uses your phone's built-in sensors to 
 - 🌗 Clean Material UI with Flutter
 - ⚙️ Uses phone **hardware sensors**, not GPS, power-efficient!
 
----
-
-## 📸 Screenshots
-
-*Coming soon...*
 
 ---
 
