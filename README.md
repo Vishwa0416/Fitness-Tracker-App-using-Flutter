@@ -4,7 +4,7 @@ A Flutter-based fitness tracking app that uses your phone's built-in sensors to 
 
 ---
 
-## 📦 Featur
+## 📦 Features
 
 - 🚶 Real-time **Step Counting**
 - 📏 **Distance Estimation** based on stride length
