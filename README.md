@@ -32,5 +32,3 @@ A Flutter-based fitness tracking app that uses your phone's built-in sensors to 
 - Dart SDK (compatible with Flutter version)
 - Android Studio or VS Code
 - A physical Android device with step counter sensors
-
----
